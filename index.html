@@ -1,1 +1,95 @@
-Penet Games
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penet Games | Mobile Game Developer</title>
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --bg-color: #1a1a1a;
+            --card-bg: #2c2c2c;
+            --text-color: #ffffff;
+        }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header {
+            padding: 50px 20px;
+            text-align: center;
+        }
+        h1 { margin: 0; font-size: 3rem; color: var(--primary-color); }
+        .subtitle { font-size: 1.2rem; opacity: 0.8; }
+        
+        .container {
+            max-width: 1000px;
+            padding: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            width: 90%;
+        }
+        .game-card {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            transition: transform 0.3s;
+            border: 1px solid #444;
+        }
+        .game-card:hover { transform: translateY(-10px); }
+        .game-card h2 { color: var(--primary-color); }
+        
+        .links {
+            margin-top: 50px;
+            padding: 20px;
+            border-top: 1px solid #444;
+            width: 100%;
+            text-align: center;
+        }
+        a { color: var(--primary-color); text-decoration: none; margin: 0 10px; }
+        a:hover { text-decoration: underline; }
+        .footer-text { opacity: 0.5; font-size: 0.8rem; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>PENET GAMES</h1>
+    <p class="subtitle">Indie Mobile Game Developer & Unity Enthusiast</p>
+</header>
+
+<div class="container">
+    <div class="game-card">
+        <h2>Anime Girls vs Zombies</h2>
+        <p>A fun experience on your mobile device.</p>
+        <a href="#">you can get from Play Store</a>
+    </div>
+
+    <div class="game-card">
+        <h2>🧟 Zombie Defense</h2>
+        <p>Defend your base against waves of zombies in this action-packed game.</p>
+        <a href="#">Coming Soon to Play Store</a>
+    </div>
+
+    <div class="game-card">
+        <h2>🎮 New Project</h2>
+        <p>Exciting new mobile gaming projects are currently under development.</p>
+        <p><i>Stay tuned!</i></p>
+    </div>
+</div>
+
+<div class="links">
+    <a href="privacy-policy.html">Privacy Policy</a>
+    <a href="ads.txt">ads.txt</a>
+    <p class="footer-text">© 2026 Penet Games - All Rights Reserved</p>
+</div>
+
+</body>
+</html>Penet Games
