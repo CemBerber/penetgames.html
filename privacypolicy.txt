@@ -1,0 +1,205 @@
+Effective Date: [01.01.2018]
+Last Updated: [13.02.2026]
+
+1. Introduction
+
+This Privacy Policy describes how [Penet Games / Cem Berber] ("we", "us", or "our") collects, uses, and discloses information when you use our mobile games (the “Services”).
+
+By downloading, installing, or using our games, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+2. Information We Collect
+
+We may collect the following types of information:
+
+2.1 Automatically Collected Information
+
+When you use our games, we may automatically collect:
+
+Device type and model
+
+Operating system version
+
+Unique device identifiers
+
+IP address
+
+Language settings
+
+Country or region
+
+Gameplay data (levels completed, session duration, interactions)
+
+Crash logs and performance data
+
+This data helps us improve performance, fix bugs, and optimize gameplay.
+
+2.2 Advertising Data
+
+We use third-party advertising services, including:
+
+Google AdMob
+
+ironSource
+
+These services may collect:
+
+Advertising ID (Google AAID / Apple IDFA where applicable)
+
+Device identifiers
+
+IP address
+
+Ad interaction data
+
+Approximate location (country/region level)
+
+Advertising partners may use this information to:
+
+Provide personalized advertisements
+
+Measure ad performance
+
+Prevent fraud
+
+You can opt out of personalized advertising in your device settings:
+
+Android: Settings → Google → Ads
+
+iOS: Settings → Privacy → Tracking
+
+For more information:
+
+Google Privacy Policy: https://policies.google.com/privacy
+
+ironSource Privacy Policy: https://www.is.com/privacy-policy/
+
+2.3 In-App Purchases
+
+Our games offer optional in-app purchases processed by:
+
+Google Play Store
+
+Apple App Store
+
+We do not collect or store your payment details.
+All payment transactions are handled securely by the platform provider.
+
+We may receive confirmation data such as:
+
+Product purchased
+
+Transaction ID
+
+Purchase status
+
+This is used only to deliver purchased content.
+
+2.4 Analytics Data
+
+We may use analytics services such as:
+
+Google Firebase Analytics
+
+These services help us understand:
+
+Player behavior
+
+Game performance
+
+Retention metrics
+
+Feature usage
+
+Analytics data does not directly identify individual users.
+
+Firebase Privacy Policy:
+https://firebase.google.com/support/privacy
+
+3. How We Use Information
+
+We use collected data to:
+
+Provide and maintain the Services
+
+Improve gameplay experience
+
+Deliver in-game purchases
+
+Show relevant advertisements
+
+Analyze usage trends
+
+Prevent fraud and abuse
+
+Comply with legal obligations
+
+4. Data Sharing
+
+We do not sell personal data.
+
+We may share limited data with:
+
+Advertising partners (AdMob, ironSource)
+
+Analytics providers (Firebase)
+
+Platform providers (Google Play, Apple App Store)
+
+Legal authorities if required by law
+
+All third-party providers process data according to their own privacy policies.
+
+5. Children’s Privacy
+
+Our games are not directed to children under the age of 13 (or applicable age in your country).
+
+We do not knowingly collect personal information from children.
+If you believe a child has provided personal data, please contact us and we will delete it.
+
+6. Data Security
+
+We implement reasonable technical and organizational measures to protect data.
+However, no system is 100% secure.
+
+7. Your Rights (GDPR / CCPA)
+
+Depending on your location, you may have the right to:
+
+Access your personal data
+
+Request deletion
+
+Request correction
+
+Object to processing
+
+Withdraw consent
+
+To exercise your rights, contact us at:
+
+Email: imcemberber@gmail.com
+
+8. Data Retention
+
+We retain collected data only as long as necessary to:
+
+Provide services
+
+Improve the game
+
+Comply with legal requirements
+
+9. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Changes will be posted on this page with an updated date.
+
+Continued use of the Services after changes means you accept the updated policy.
+
+10. Contact Information
+
+If you have any questions regarding this Privacy Policy, please contact:
+
+Developer Name: [Cem Berber / Penet Games]
+Email: imcemberber@gmail.com
+Country: Turkey
